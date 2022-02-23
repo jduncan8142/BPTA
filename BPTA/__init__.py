@@ -4,3 +4,4 @@ from Core.Logger import Logger
 from Core.Screenshot import Screenshot
 from Core.Timer import Timer
 from Core.WindowHandler import WindowHandler
+from Core import test2
