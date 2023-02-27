@@ -127,3 +127,5 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+BPTA-DB.session.sql
+.vscode/settings.json

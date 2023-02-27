@@ -1,5 +1,18 @@
 {
-    "cSpell.words": [
-        "techtonik"
+    "sqltools.connections": [
+        {
+            "mysqlOptions": {
+                "authProtocol": "default"
+            },
+            "previewLimit": 100,
+            "server": "172.17.0.3",
+            "port": 3306,
+            "driver": "MariaDB",
+            "name": "BPTA-DB",
+            "group": "BPTA",
+            "database": "bpta",
+            "username": "jason",
+            "askForPassword": true
+        }
     ]
 }
